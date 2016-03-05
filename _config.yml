@@ -2,6 +2,7 @@ name: metalmtn
 favicon: null
 layout_spectrum: 0.33102506143040955
 typography_spectrum: 0.9324645253363997
+title: metalmtn
 cta:
   domain: null
   bucket: null
