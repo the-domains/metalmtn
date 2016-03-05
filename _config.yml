@@ -1,0 +1,28 @@
+name: metalmtn
+favicon: null
+layout_spectrum: 0.33102506143040955
+typography_spectrum: 0.9324645253363997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7390912529081106
+  lightness: 0.6509386927355081
+  saturation: 0.5528071231674403
+  rhythmicContrast: 0.4120301199145615
+purpose: []
